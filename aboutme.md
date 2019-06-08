@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: What am I doing
+published: true
 ---
 
 My name is Martin Wong. I enjoy working on:
@@ -12,4 +13,8 @@ My name is Martin Wong. I enjoy working on:
 
 
 I currently live in the Vancouver area in BC, Canada
-I recently graduated from the University of Waterloo with a Bachelors of Mechatronics Engineering 
+I recently graduated from the University of Waterloo with a Bachelors of Mechatronics Engineering
+
+**Current Projects**
+
+- [Dfo Tools Trello Board](https://trello.com/b/4eA1fTO2/dfo-tools-site)
