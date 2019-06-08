@@ -9,3 +9,7 @@ My name is Martin Wong. I enjoy working on:
 - Embedded systems with sensors like robots
 - Tools to use in my games
 - Fun VR and AR applications
+
+
+I currently live in the Vancouver area in BC, Canada
+I recently graduated from the University of Waterloo with a Bachelors of Mechatronics Engineering 
