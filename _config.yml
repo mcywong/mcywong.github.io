@@ -26,9 +26,9 @@ navbar-links:
   About Me: "aboutme"
   DFO Tools Blog: "https://mcywong.github.io/DFO_Tools_Blog/index.html"
   Links:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - My LinkedIn: "https://www.linkedin.com/in/martincywong/"
     - My GitHub: "https://github.com/mcywong"
+    - Capstone Project: "https://capsulemate.github.io"
 
 paginate_path: "/DFO_Tools_Blog/page:num/"
 
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "mcywong.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
