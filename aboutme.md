@@ -15,6 +15,7 @@ My name is Martin Wong. I enjoy working on:
 I currently live in the Vancouver area in BC, Canada
 I recently graduated from the University of Waterloo with a Bachelors of Mechatronics Engineering
 
-**Current Projects**
+#### Current Projects
 
+- [Dfo Tools blog](/DFO_Tools_Blog)
 - [Dfo Tools Trello Board](https://trello.com/b/4eA1fTO2/dfo-tools-site)
