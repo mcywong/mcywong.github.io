@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle: What am I doing
 published: true
 ---
@@ -12,8 +12,9 @@ My name is Martin Wong. I enjoy working on:
 - Fun VR and AR applications
 
 
-I currently live in the Vancouver area in BC, Canada
-I recently graduated from the University of Waterloo with a Bachelors of Mechatronics Engineering
+I currently live in the Vancouver area in BC, Canada.
+
+I recently graduated from the University of Waterloo with a Bachelors of Mechatronics Engineering.
 
 #### Current Projects
 
