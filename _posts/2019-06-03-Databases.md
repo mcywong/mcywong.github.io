@@ -6,3 +6,4 @@ image: /img/dfoLogoCropped.jpg
 tags: [Hell Logger, Databases]
 ---
 
+![databaseSchema](/img/schema.PNG)
