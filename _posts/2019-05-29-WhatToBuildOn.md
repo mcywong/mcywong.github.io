@@ -35,7 +35,7 @@ Digital Ocean has a lot of tutorials for setting up websites in various ways and
 Unfortunately they are a paid service.
 In the end I can still use Apache to setup a self-hosted site while being careful about security.
 
-[LAMP Example](/img/ApacheUp.png)
+![LAMP Example](/img/ApacheUp.png)
 
-Unfortunately all these options require a seperate purchase of a domain.
-Going to need to do more research to find a better solution
+Unfortunately all these options require a seperate purchase of a domain or my website is stuck to my local network like above.
+Going to need to do more research to find a better solution!
