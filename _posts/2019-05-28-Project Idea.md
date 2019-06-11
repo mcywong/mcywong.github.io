@@ -4,11 +4,12 @@ title: Project Start!
 subtitle: Background and Problem Statement
 image: /img/dfoLogoCropped.jpg
 gh-repo: mcywong/DFO-Tools-site
+tags: [Hell Logger, Engineering Design Process]
 ---
 
 
 ### Background
-This project is designed to be a convenient tool for players of the MMORPG [Dungeon Fighter Online](https://www.dfoneople.com/) or DFO for short. 
+This project is designed to be a convenient tool for players of the MMORPG by Neople&copy; [Dungeon Fighter Online](https://www.dfoneople.com/) or DFO for short.
 As with most RPG style games, players fight in dungeons to level up and get stronger equipment.
 One type of dungeon in DFO is called Hell mode where the strongest tier of equipment called Epics can be found at a low drop rate.
 Players will complete many runs of Hell mode hoping to get lucky and find one of their desired Epic gear.
@@ -32,4 +33,3 @@ Solution 3 would need be designed well for users to actively want to log runs on
 
 Overall solution 3 makes it easy to collect data since runs will be directly logged into a singular database. 
 Now I want to build a website users can access to collect Hell run data and display statistics.
-

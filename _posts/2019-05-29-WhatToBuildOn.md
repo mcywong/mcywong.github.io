@@ -1,74 +1,41 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+title: Lamps or Nodes
+subtitle: Frameworks
+image: /img/dfoLogoCropped.jpg
+tags: [Hell Logger, Hosting, Frameworks, Databases]
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+### What to use?
 
-**Here is some bold text**
+First I needed to figure out how do I and host a website properly.
+There were several frameworks and stacks used in web development that I have heard of:
 
-## Here is a secondary heading
+- LAMP: Linux; Apache; MySql; PHP, Perl, Python
+- MEAN: MongoDB; ExpressJS; AngularJS; NodeJS
+- Django: Python Based Web Framework
 
-Here's a useless table:
+The LAMP stack was the most familiar to me because I had seen it used in my previous coop.
+The MEAN stack is newer and I am less familiar with it.
+Django is also a new experience however I am comfortable with python.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+In the end, a major factor in deciding which method to use comes down to how I get my site hosted.
+This is a side project for me and I do not want to be paying a monthly or yearly subscription.
 
+Options include:
 
-How about a yummy crepe?
+- Amazon Web Services: AWS
+- Google Cloud
+- Digital Ocean Hosting
+- Self Hosting
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+AWS and Google Cloud has some free features like a NoSql database that make the MEAN stack a better method than others.
+They both have many paid services that do all the setup for you.
+Digital Ocean has a lot of tutorials for setting up websites in various ways and are very flexible.
+Unfortunately they are a paid service.
+In the end I can still use Apache to setup a self-hosted site while being careful about security.
 
-Here's a code chunk:
+[LAMP Example](/img/ApacheUp.png)
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+Unfortunately all these options require a seperate purchase of a domain.
+Going to need to do more research to find a better solution

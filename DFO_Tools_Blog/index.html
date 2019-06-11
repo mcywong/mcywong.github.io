@@ -6,13 +6,14 @@ image: /img/dfoLogoCropped.jpg
 ---
 <div>
   <p>
-    For more about the DFO by Neople check out their <a href="https://www.dfoneople.com/">site</a><br>
-    Check out the status of this project in its Trello board  <a href="https://trello.com/b/4eA1fTO2/dfo-tools-site"><i class= "fa fa-trello fa-2x"></i></a>
+    For more about <a href="https://www.dfoneople.com/">Dungeon Fighter Online by Neople&copy;</a><br>
+    Check out the status of this project in its <a href="https://trello.com/b/4eA1fTO2/dfo-tools-site">Trello board  <i class= "fa fa-trello"></i></a><br>
+    Read the blog from the <a href="/_posts/2019-05-28-Project Idea.md">beginning</a>
   </p>
 </div>
 
 <div class="posts-list">
-  {% for post in paginator.posts reversed %}
+  {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
