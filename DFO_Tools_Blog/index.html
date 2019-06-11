@@ -2,7 +2,7 @@
 layout: page
 title: DFO Tools Project
 subtitle: A website to calculate drop rates and compare equipment from the game Dungeon Fighter Online (DFO)
-use-site-title: true
+image: /img/dfoLogoCropped.jpg
 ---
 <div>
   <p>
@@ -12,7 +12,7 @@ use-site-title: true
 </div>
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts reversed %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>

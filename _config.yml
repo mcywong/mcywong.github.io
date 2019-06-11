@@ -24,8 +24,9 @@ description: A place to track my own projects and what I have learned
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  DFO Tools Blog: "https://mcywong.github.io/DFO_Tools_Blog/index.html"
-  Capstone Project: "https://capsulemate.github.io"
+  Projects:
+    - DFO Tools Blog: "https://mcywong.github.io/DFO_Tools_Blog/index.html"
+    - Capstone Project: "https://capsulemate.github.io"
   Profile Links:
     - My LinkedIn: "https://www.linkedin.com/in/martincywong/"
     - My GitHub: "https://github.com/mcywong"
